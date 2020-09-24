@@ -26,7 +26,7 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
 
 * 5.-Reconocimiento más que recuerdo
 	* \+ Se marcan los puntos de edición de tamaño en las imágenes con cuadrados por los bordes, facilitando así la edición del PhotoBook.
-	* \-
+	* \- En la edición del PhotoBook nos señala en rojo en la parte inferior un ojo:(advertencia) , donde presente a través de texto, la cual siempre está presente
 
 * 6.-Prevención del error
 	* \+ Al inicio de cada página se le advierte al usuario que las fotos pueden resultar recortadas si cruzan los bordes segmentados.
