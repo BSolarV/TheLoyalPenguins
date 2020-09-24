@@ -12,8 +12,8 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
  	* \- En varias oportunidades, al entregar información al usuario lo hace utilizando palabras en inglés, siendo que se eligió la interfaz en español, además de mezclar los mismos conceptos entre estas lenguas.  
 
 * 2.- Visibilidad del Estado del Sistema
-	* \+ 
-	* \- 
+	* \+ La pantalla de carga cuando la aplicación se está iniciando mostrando el progreso de la inicialización.
+	* \- Durante la creación del Photobook uno tiene la opción de guardar este, pero uno desconoce cuál fue el último momento donde este fue guardado.
 
 * 3.- Similitud entre el sistema y el mundo real
 	* \+ 
