@@ -40,8 +40,8 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
 	* \- 
 
 * 9.- Diseño estético y minimalista
-	* \+ 
-	* \- 
+	* \+ Al momento de presentar el albúm completo se muestra únicamente el producto final y las opciones para explorarlo a cabalidad.
+	* \- El inicio muestra mucha información, probablemente, irrelevante para un usuario casual que sólo quiere realizar un álbum, de modo que la opción para iniciarlo se pierde.
 
 * 10.- Ayuda y documentación
 	* \+ 
