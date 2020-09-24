@@ -1,7 +1,7 @@
 # The Loyal Penguins
 
 # Integrantes
-* Bastián Solar Vargas
+* Bastián Solar Vargas  
 	* 201773003-k
-* Bastián Vivar Maldonado
+* Bastián Vivar Maldonado  
 	* 201773109-5
