@@ -1,0 +1,47 @@
+<!doctype html>
+
+<html>
+  <head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <dom-module id="my-text-field-styles" theme-for="vaadin-text-field vaadin-text-area">
+        <template>
+            <style>
+            :host(.timer-job-name) [part="input-field"] {
+                border: 1px solid #ccc;
+                background-color: #fff;
+            }
+
+            :host([focused].timer-job-name) [part="input-field"] {
+                border-color: #aaa;
+            }
+            </style>
+        </template>
+    </dom-module>
+    <meta charset="utf-8">
+    <title>Testing</title>
+    <link rel="stylesheet" type="text/css" href="node_modules/@kor-ui/kor/kor-styles.css">
+    <script type="module" src="../pomodoro-element.js"></script>
+    <style>
+        html, body {
+                margin: 0;
+                padding: 0;
+                position:absolute;/* this is very important*/
+                bottom:0;
+                top:0;
+                right:0;
+                left:0;
+                height: 100%;
+                width: 100%;
+        };
+        p {
+            border: solid 1px blue;
+            padding: 8px;
+        }
+    </style>
+  </head>
+  <body>
+    <pomodoro-element>
+    </pomodoro-element>
+  </body>
+</html>
