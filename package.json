@@ -42,7 +42,8 @@
     "@webcomponents/webcomponentsjs": "^2.5.0",
     "http-server": "^0.12.3",
     "lit-element": "^2.3.1",
-    "vendor-copy": "^2.0.0"
+    "vendor-copy": "^2.0.0",
+    "es-dev-server": "^1.46.1"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
